@@ -1,0 +1,31 @@
+Virtual Cybersecurity Lab Setup - Documentation
+
+1. Hypervisor Installation (Oracle VM VirtualBox)
+
+Tool Used: Oracle VM VirtualBox
+Version: 7.1.10
+
+Installation Steps:
+1. Download the Installer:
+   - Visited the official VirtualBox website: https://www.virtualbox.org
+   - Went to the Downloads section and selected the installer for Windows hosts
+   - Downloaded the VirtualBox installer file Version: 7.1.10Win.exe
+
+2. Run the Installer:
+   - Double-clicked the downloaded .exe file to begin installation
+   - Followed the setup wizard steps:
+     - Accepted the default installation path
+     - Left all default features checked (including USB support and networking)
+     - Continued through the prompts and confirmed any warning messages about networking
+
+3. Complete Installation:
+   - Clicked "Install" and waited for the installation to finish
+   - Approved any Windows security prompts for installing device software
+   - Launched VirtualBox after installation was complete
+
+
+4. Verification:
+   - Opened VirtualBox from the Start menu
+   - Navigated to Help > About VirtualBox to confirm successful installation and version number
+   - Verified that 64-bit OS options were available when creating new virtual machines
+

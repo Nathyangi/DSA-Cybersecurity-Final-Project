@@ -1,0 +1,33 @@
+Kali Linux Installation Steps Summary:
+
+1. Downloaded the Kali Linux ISO image from the official website (https://www.kali.org).
+
+2. Created a new virtual machine in VirtualBox:
+   - Selected "Linux" as the OS type
+   - Choose "Debian (64-bit)" as the version
+   - Allocated 4GB of RAM and 48GB of storage
+   - Attached the downloaded Kali ISO as the boot device
+
+3. Booted the VM from the ISO and selected “Graphical Install” from the boot menu.
+
+4. Choose the appropriate language, region, and keyboard layout.
+
+5. Set the system hostname to "kali-lab" when prompted.
+
+6. Created a non-root user account:
+   - Username: Naths
+   - Password: 
+
+7. Configured disk partitioning using the "guided partitioning method":
+   - Selected “Use entire disk”
+   - Choose “All files in one partition.”
+
+8. Installed the base system and package manager by following on-screen prompts.
+
+9. Installed the "GRUB bootloader" to the primary drive when prompted.
+
+10. Completed the installation and rebooted into the newly installed Kali Linux environment.
+
+
+
+

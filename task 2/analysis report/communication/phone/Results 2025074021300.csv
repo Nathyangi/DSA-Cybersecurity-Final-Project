@@ -1,0 +1,19 @@
+"Source Name","Account Type",ID,"Data Source"
+contacts2.db,PHONE,08032111225,LogicalFileSet1
+contacts2.db,PHONE,"+971543777711",LogicalFileSet1
+contacts2.db,PHONE,"+971565505984",LogicalFileSet1
+contacts2.db,PHONE,08032111122,LogicalFileSet1
+contacts2.db,PHONE,08012345678,LogicalFileSet1
+contacts2.db,PHONE,08032111669,LogicalFileSet1
+contacts2.db,PHONE,08032111133,LogicalFileSet1
+mmssms.db,PHONE,08032111225,LogicalFileSet1
+mmssms.db,PHONE,08032111669,LogicalFileSet1
+mmssms.db,PHONE,08032111133,LogicalFileSet1
+mmssms.db,PHONE,"+971543777711",LogicalFileSet1
+LogicalFileSet1,PHONE,"+15555215554",LogicalFileSet1
+LogicalFileSet1,PHONE,"+971565505984",LogicalFileSet1
+LogicalFileSet1,PHONE,08032111669,LogicalFileSet1
+LogicalFileSet1,PHONE,08032111225,LogicalFileSet1
+LogicalFileSet1,PHONE,08012345678,LogicalFileSet1
+LogicalFileSet1,PHONE,"+971543777711",LogicalFileSet1
+LogicalFileSet1,PHONE,08032111133,LogicalFileSet1

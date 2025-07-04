@@ -1,0 +1,6 @@
+"Source Name","Program Name",Comment,"Data Source"
+LogicalFileSet1,"com.google.android.youtube","Installed Apps GSM",LogicalFileSet1
+LogicalFileSet1,com.squareup.cash,"Installed Apps GSM",LogicalFileSet1
+LogicalFileSet1,com.twitter.android,"Installed Apps GSM",LogicalFileSet1
+LogicalFileSet1,com.whatsapp,"Installed Apps GSM",LogicalFileSet1
+LogicalFileSet1,"wallettrust.applpy.crypto","Installed Apps GSM",LogicalFileSet1

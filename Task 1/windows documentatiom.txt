@@ -1,0 +1,12 @@
+Windows 10 Installation
+
+1. ISO used: `W10X64.22H2.10in1.ENU.OCT2022.ISO`
+2. Created VM:
+   - OS Type: Windows 10 (64-bit)
+   - RAM: 4GB+, Storage: 50GB
+3. Booted VM from ISO → Selected language and keyboard
+4. Skipped product key → Chose **Windows 10 Pro**
+5. Selected **Custom Install** → Used all unallocated space
+6. Let the installer handle partitions → Automatic reboot
+7. Set up user: `naths` → Finished desktop setup
+8. Verified IP via `ipconfig` and internal ping tests
